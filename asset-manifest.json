@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatApp_react/static/css/main.c154955e.css",
+    "main.js": "/chatApp_react/static/js/main.c04e9720.js",
+    "index.html": "/chatApp_react/index.html",
+    "main.c154955e.css.map": "/chatApp_react/static/css/main.c154955e.css.map",
+    "main.c04e9720.js.map": "/chatApp_react/static/js/main.c04e9720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c154955e.css",
+    "static/js/main.c04e9720.js"
+  ]
+}
